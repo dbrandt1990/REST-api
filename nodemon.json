@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "dvb910",
+    "JWT_KEY": "secret"
+  }
+}
